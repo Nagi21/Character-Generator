@@ -1,4 +1,6 @@
 import string
+import time
+from random import *
 
 RACE_LIST = []
 CLASS_LIST = []
@@ -24,5 +26,5 @@ def main():
 					#randomly select class
 				if alignmentSelection not in ALIGNMENTS:
 					#randomly select alignment
+				
 				#make list to store character objects after creation
-			
